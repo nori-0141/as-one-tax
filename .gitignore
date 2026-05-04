@@ -1,0 +1,16 @@
+# Helper scripts and assets used during development (not for publication)
+extract_pdf.py
+pdf_to_images.py
+pdf_images/
+*.pdf
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+.claude/
+
+# Logs
+*.log
